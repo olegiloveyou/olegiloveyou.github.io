@@ -1,0 +1,26 @@
+h1{
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: rgb(154, 147, 140);
+  font-size: 40px;
+}
+p{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  width: 900px;
+  margin: auto;
+}
+tr{
+
+}
+hr{
+  border: solid 1px rgb(154, 147, 140);
+  width: 500px;
+}
+h2{
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: rgb(154, 147, 140);
+  font-size: 20px;
+}
+img{
+  width: 500px;
+}
